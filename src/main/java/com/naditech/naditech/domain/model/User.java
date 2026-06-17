@@ -1,3 +1,4 @@
+// Domain Aggregate Root representing a fintech customer
 package com.naditech.naditech.domain.model;
 
 import lombok.AllArgsConstructor;
