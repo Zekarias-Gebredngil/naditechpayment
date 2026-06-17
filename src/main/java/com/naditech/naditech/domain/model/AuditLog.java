@@ -1,3 +1,4 @@
+// Immutable audit log event for compliance and security monitoring
 package com.naditech.naditech.domain.model;
 
 import lombok.AllArgsConstructor;
