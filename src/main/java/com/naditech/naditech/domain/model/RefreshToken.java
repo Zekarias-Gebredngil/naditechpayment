@@ -1,3 +1,4 @@
+// Opaque cryptographic refresh token representation
 package com.naditech.naditech.domain.model;
 
 import lombok.AllArgsConstructor;
