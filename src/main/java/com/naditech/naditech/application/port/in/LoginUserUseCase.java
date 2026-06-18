@@ -1,3 +1,4 @@
+// Primary input port for customer login and credential verification
 package com.naditech.naditech.application.port.in;
 
 import com.naditech.naditech.application.dto.command.LoginUserCommand;
