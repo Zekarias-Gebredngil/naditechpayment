@@ -1,3 +1,4 @@
+// Secondary output port for refresh token lifecycle management
 package com.naditech.naditech.domain.port;
 
 import com.naditech.naditech.domain.model.RefreshToken;
