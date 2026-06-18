@@ -1,3 +1,4 @@
+// Secondary output port for customer data persistence
 package com.naditech.naditech.domain.port;
 
 import com.naditech.naditech.domain.model.User;
