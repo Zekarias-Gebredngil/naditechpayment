@@ -1,3 +1,4 @@
+// Output port for JWT generation, claim extraction, and cryptographic validation
 package com.naditech.naditech.application.port.out;
 
 import com.naditech.naditech.domain.model.ClientType;
