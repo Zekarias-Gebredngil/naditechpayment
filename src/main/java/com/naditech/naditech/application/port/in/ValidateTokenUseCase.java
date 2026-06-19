@@ -1,3 +1,4 @@
+// Primary input port for API Gateway token introspection
 package com.naditech.naditech.application.port.in;
 
 import com.naditech.naditech.application.dto.result.TokenValidationResult;
