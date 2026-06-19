@@ -1,3 +1,4 @@
+// Primary input port for Core Banking service user and eligibility lookups
 package com.naditech.naditech.application.port.in;
 
 import com.naditech.naditech.application.dto.result.UserProfileResult;
