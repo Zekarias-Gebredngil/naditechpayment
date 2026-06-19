@@ -1,3 +1,4 @@
+// Output port for password hashing and verification
 package com.naditech.naditech.application.port.out;
 
 public interface PasswordEncoderPort {
