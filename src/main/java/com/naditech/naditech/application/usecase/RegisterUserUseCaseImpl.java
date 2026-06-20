@@ -1,3 +1,4 @@
+// Implementation of customer onboarding and account assignment
 package com.naditech.naditech.application.usecase;
 
 import com.naditech.naditech.application.dto.command.RegisterUserCommand;
