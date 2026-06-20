@@ -1,3 +1,4 @@
+// Implementation of multi-platform authentication with account lockout policy
 package com.naditech.naditech.application.usecase;
 
 import com.naditech.naditech.application.dto.command.LoginUserCommand;
