@@ -1,3 +1,4 @@
+// Filter extracting trusted identity headers forwarded by API Gateway (X-User-Id, X-User-Email, X-User-Role)
 package com.naditech.naditech.infrastructure.configuration;
 
 import jakarta.servlet.FilterChain;
