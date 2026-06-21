@@ -1,3 +1,4 @@
+// Implementation of token rotation with token reuse security detection
 package com.naditech.naditech.application.usecase;
 
 import com.naditech.naditech.application.dto.command.RefreshTokenCommand;
