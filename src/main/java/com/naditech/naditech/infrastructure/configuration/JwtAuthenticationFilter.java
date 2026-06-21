@@ -1,3 +1,4 @@
+// OncePerRequestFilter for direct Bearer JWT extraction and security context authentication
 package com.naditech.naditech.infrastructure.configuration;
 
 import com.naditech.naditech.application.port.out.TokenProviderPort;
