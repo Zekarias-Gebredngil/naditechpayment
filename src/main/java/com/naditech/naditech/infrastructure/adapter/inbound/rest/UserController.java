@@ -1,3 +1,4 @@
+// REST adapter for customer profile retrieval and account details
 package com.naditech.naditech.infrastructure.adapter.inbound.rest;
 
 import com.naditech.naditech.application.dto.result.UserProfileResult;
