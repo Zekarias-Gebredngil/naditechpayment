@@ -1,3 +1,4 @@
+// Central Spring Security configuration with stateless session policy and CORS rules
 package com.naditech.naditech.infrastructure.configuration;
 
 import lombok.RequiredArgsConstructor;
