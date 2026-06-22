@@ -1,3 +1,4 @@
+// Internal service-to-service REST adapter for Core Banking transactions
 package com.naditech.naditech.infrastructure.adapter.inbound.rest;
 
 import com.naditech.naditech.application.dto.result.UserProfileResult;
