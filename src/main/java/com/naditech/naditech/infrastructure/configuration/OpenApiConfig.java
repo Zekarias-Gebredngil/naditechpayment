@@ -1,3 +1,4 @@
+// OpenAPI 3.0 configuration with direct and API Gateway server definitions
 package com.naditech.naditech.infrastructure.configuration;
 
 import io.swagger.v3.oas.models.Components;
