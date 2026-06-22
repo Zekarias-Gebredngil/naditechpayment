@@ -1,3 +1,4 @@
+// Centralized ControllerAdvice translating domain exceptions to RFC 7807 problem details
 package com.naditech.naditech.infrastructure.adapter.inbound.exception;
 
 import com.naditech.naditech.domain.exception.*;
