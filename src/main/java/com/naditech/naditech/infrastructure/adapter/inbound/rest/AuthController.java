@@ -1,3 +1,4 @@
+// REST adapter for customer authentication, registration, token refresh and validation
 package com.naditech.naditech.infrastructure.adapter.inbound.rest;
 
 import com.naditech.naditech.application.dto.result.AuthResult;
