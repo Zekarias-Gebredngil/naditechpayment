@@ -31,3 +31,6 @@ docker compose up -d
 ### Swagger Documentation
 Access interactive OpenAPI documentation at:
 `http://localhost:8085/swagger-ui.html`
+
+## Production Readiness
+Verified with Spring Boot, PostgreSQL, and Clean Architecture.
