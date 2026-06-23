@@ -1,3 +1,4 @@
+# PostgreSQL container definition for Naditech User Management microservice
 services:
   postgres:
     image: 'postgres:latest'
