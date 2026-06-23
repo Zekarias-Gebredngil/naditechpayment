@@ -1,3 +1,4 @@
+// Outbound persistence adapter implementing domain AuditLogRepositoryPort
 package com.naditech.naditech.infrastructure.adapter.outbound.persistence.adapter;
 
 import com.naditech.naditech.domain.model.AuditLog;
