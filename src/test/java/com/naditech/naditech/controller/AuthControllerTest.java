@@ -1,3 +1,4 @@
+// Unit test suite for AuthController using MockMvc and Mockito
 package com.naditech.naditech.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
