@@ -1,3 +1,4 @@
+// Security adapter implementing TokenProviderPort using JJWT library
 package com.naditech.naditech.infrastructure.adapter.outbound.security;
 
 import com.naditech.naditech.application.port.out.TokenProviderPort;
