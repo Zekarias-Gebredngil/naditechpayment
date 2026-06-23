@@ -1,3 +1,4 @@
+// Domain helper adapter generating collision-free 10-digit account numbers
 package com.naditech.naditech.infrastructure.adapter.outbound.security;
 
 import com.naditech.naditech.application.port.out.AccountNumberGeneratorPort;
