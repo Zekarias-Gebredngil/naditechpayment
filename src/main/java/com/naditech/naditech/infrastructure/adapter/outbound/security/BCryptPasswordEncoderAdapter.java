@@ -1,3 +1,4 @@
+// Security adapter implementing PasswordEncoderPort using Spring Security BCrypt
 package com.naditech.naditech.infrastructure.adapter.outbound.security;
 
 import com.naditech.naditech.application.port.out.PasswordEncoderPort;
